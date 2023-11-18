@@ -1,2 +1,7 @@
-Hii this is chapter1.
-and i am using git version control.
+1) i created a working directory.
+2) then i made a .txt file and write some text.
+3) initialize a git by using git init command.
+4) then add a txt file to a git using git add <file name>.
+5) then i commit changes using git commit -m .
+6) git log ,git status.
+7) using git checkout we check the changes we made in out files.
